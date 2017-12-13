@@ -1,6 +1,6 @@
 # NASA-Datanauts
-GItHub Repository for NASA Datanauts challenges &amp; projects
-##Features
-+Conquer Kepler API
-+Displays data in web page
-+ User interface allows user view days on all known Kepler planets
+GItHub Repository for NASA Datanauts challenge and projects
+#Features
++ Friendship 7 3D Orbital Data Visualizations
++ EM-1 3D Orbital Data Visualizations
++ Displays data in web page
